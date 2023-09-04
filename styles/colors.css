@@ -1,0 +1,27 @@
+body{
+   background-color: #2f3855;
+}
+h1{
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 30px;
+   color: rgb(128, 138, 172);
+   text-align: center;
+}
+h2{
+   font-family: bahnschrift;
+   font-size: 20px;
+   color: rgba(207, 201, 214, 0.44);
+   text-align: left;
+}
+p{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 18px;
+   color: rgb(208, 194, 218);
+   text-align: left;
+}
+img{
+   display: flex;
+   margin: auto;
+   width: 50%;
+   height: 50%;
+}
