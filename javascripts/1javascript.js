@@ -6,5 +6,5 @@ console.warn("Warning");
 console.info("Info");
 console.log("Hello World! of: "+name);
 */
-alert("Estoy vivo!!...");
+alert("EL Javascript si jala!!...");
 console.log("Aqui de curioso en el navegadro...");
